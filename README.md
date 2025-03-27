@@ -1,10 +1,9 @@
-#  🧑🏻‍💻 ```      Hello, World!      ``` :earth_americas: <img src="https://github.com/user-attachments/assets/2124bc7c-8c64-478d-b58f-40e10b7f85e4" height="300px" align="right" alt="Gif animado">
-  *Olá!   Sou um estudante em transição de área, migrando da área jurídica <br>
-  para o universo da tecnologia.<br>
+#  🧑🏻‍💻 ```      Hello, World!      ``` 
+  *Olá!   É bom vê-lo aqui! <br> 
+  Sou um estudante apaixonado por tecnologia e desejo impactar<br>
+  positivamente a vida de pessoas pela da área! <br>
   Atualmente, curso Técnico em Desenvolvimento de Sistemas no Senai<br>
-  e Bacharelado em Engenharia da Computação na Univesp.<br>
-  Estou combinando o aprendizado analítico adquirido no Direito com <br>
-  minha paixão por programação e inovação.<br>
+  e realizo cursos externos para aprofundamento de aprendizado.<br>
   Buscando aplicar na prática o que venho aprendendo em meus estudos<br>
   na área de tecnologia.*
   
@@ -20,7 +19,7 @@
   </a>
   <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
     <span style="font-size: 8px; margin-right: 5px;">  :mag_right: </span>
-    <img src="https://profile-counter.glitch.me/KenpsSouza/count.svg" style="width: 140px;">
+    <img src="https://profile-counter.glitch.me/cauerodriguesdosreis/count.svg" style="width: 140px;">
   </span>
 </div>
 
