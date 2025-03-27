@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/cauê-rodrigues-dos-reis-a2ba39346/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="caue15@outlook.com.br" target="_blank">
+  <a href="mailto:caue15@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
