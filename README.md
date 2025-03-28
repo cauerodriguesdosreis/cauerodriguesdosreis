@@ -1,7 +1,7 @@
 #  🧑🏻‍💻 ```      Hello, World!      ``` 
   *Olá!   É bom vê-lo aqui! <br> 
-  Sou um estudante apaixonado por tecnologia e desejo impactar<br>
-  positivamente a vida de pessoas pela da área! <br>
+  Sou um estudante apaixonado por tecnologia e desejo impactar positivamente <br>
+  a vida de pessoas pela da área! <br>
   Atualmente, curso Técnico em Desenvolvimento de Sistemas no Senai<br>
   e realizo cursos externos para aprofundamento de aprendizado.<br>
   Buscando aplicar na prática o que venho aprendendo em meus estudos<br>
