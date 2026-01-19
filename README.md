@@ -27,8 +27,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-rodrigues-dos-reis-a2ba39346/)
 - [Portfólio](https://github.com/cauerodriguesdosreis/dev-portfolio)
-- [Email](mailto:cauerodriguesdev@gmail.com)
-- [Instagram - rodrigueszxy_](https://www.instagram.com/rodrigueszxy_)
+- [E-mail](mailto:cauerodriguesdev@gmail.com)
+- [Instagram](https://www.instagram.com/rodrigueszxy_)
 
 ---
 
