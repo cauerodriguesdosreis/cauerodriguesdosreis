@@ -13,9 +13,9 @@
 ## Sobre
 
 - Desenvolvedor Backend Java em formação, com foco em APIs REST utilizando Spring Boot e Spring Data JPA
-- Técnico em Desenvolvimento de sistemas; SENAI Suiço-Brasileira "Paulo Ernesto Tolle"
+- Técnico em Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileiro "Paulo Ernesto Tolle"
 - Atuação profissional atual em suporte de TI; Busco oportunidade como Desenvolvedor Backend Júnior, Estágio ou Trainee
-- Vivência prática em projetos com arquitetura em camadas (Controller, Service, Repository), DTOs, validações de negócio e exceções globais
+- Vivência prática em projetos backend com arquitetura em camadas, uso de DTOs, validações de negócio e exceções globais
 - Estudo contínuo de boas práticas de backend, versionamento com Git/GitHub e construção de projetos reais para portfólio
 
 ## Projetos em destaque
