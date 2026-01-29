@@ -1,7 +1,7 @@
 <h1 align="center">Cauê Rodrigues</h1>
 
 <p align="center">
-  Backend Developer (Java) · APIs REST · Spring Boot
+  Backend Developer (Java) · REST APIs · Spring Boot
 </p>
 
 ---
